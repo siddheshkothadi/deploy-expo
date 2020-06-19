@@ -1,0 +1,15 @@
+{
+  "files": {
+    "app.js": "/deploy-expo/static/js/app.2f8b81c0.chunk.js",
+    "app.js.map": "/deploy-expo/static/js/app.2f8b81c0.chunk.js.map",
+    "runtime~app.js": "/deploy-expo/static/js/runtime~app.db1889c3.js",
+    "runtime~app.js.map": "/deploy-expo/static/js/runtime~app.db1889c3.js.map",
+    "index.html": "/deploy-expo/index.html",
+    "manifest.json": "/deploy-expo/manifest.json",
+    "serve.json": "/deploy-expo/serve.json"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.db1889c3.js",
+    "static/js/app.2f8b81c0.chunk.js"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "deploy-expo",
+  "short_name": "deploy-expo",
+  "start_url": "/?utm_source=web_app_manifest"
+}
